@@ -2,15 +2,15 @@
 
   "scertGfxAds" : {
       
-      "NetworkAds" : "admob",
+      "NetworkAds" : "Facebook",
 
-    "AdmobBanner" : "ca-app-pub-3898990165445847/2701472698",
-	"AdmobInterstitial" : "ca-app-pub-3898990165445847/5859016867",
+    "AdmobBanner" : "",
+	"AdmobInterstitial" : "",
 	
-	"FacebookbBanner" : "952317161975275_952318675308457",
-	"FacebookbSelectBanner" : "952317161975275_952318685308456",
-	"FacebookInterstitial" : "952317161975275_952318671975124",
-	"FacebookNative"    :  "952317161975275_952318091975182",
+	"FacebookbBanner" : "3930313190394041_3930317813726912",
+	"FacebookbSelectBanner" : "3930313190394041_3965565453535481",
+	"FacebookInterstitial" : "3930313190394041_3930319610393399",
+	"FacebookNative"    :  "3930313190394041_3930320770393283",
 	
 	
 	"Yodo1Advert" : "St3Isumu9Q5",
